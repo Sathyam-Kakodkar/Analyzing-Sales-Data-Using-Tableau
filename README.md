@@ -19,12 +19,19 @@ The data consists of 286386 rows and  36 columns. The target variable is  "total
 
 ## Analysis
 
+![Revenue per state](https://github.com/Sathyam-Kakodkar/Customer-Analysis/blob/main/images/Revenue%20per%20State.png)
+
+Here you can clearly see that Texas(TX) state generated highest revenue of around 15.5 million dollars
+
+![Revenue percentage per region](https://github.com/Sathyam-Kakodkar/Customer-Analysis/blob/main/images/Revenue%20percentage%20per%20Region.png)
+
+South region is highest revenue contributor with 38.37% whereas Northeast region was the lowest contributor with 17.10%
 
 
 ## Conclusion
 
-A random forest model comprising 50 decision trees was used to determine feature importance for predicting customer satisfaction . The below plot shows that Inflight entertainment, Seat comfort and Ease of Online booking were the Top 3 most important factors in determining satisfaction. The overall model performed with 94.2% accuracy, recall 94.5% and 95% precision.
+![Dashboard](https://github.com/Sathyam-Kakodkar/Customer-Analysis/blob/main/images/Dashboard.png)
 
-![Feature Importance](https://github.com/Sathyam-Kakodkar/Customer-Satisfaction/blob/main/Feature%20Importance%20for%20Customer%20Satisfaction.png)
+This project will help the stakeholders make decisions on which areas to focus. For example South region has highest revenue generation so the stakeholders can follow the ideas of the south region and replicate it in other regions to achieve success.
 
 
