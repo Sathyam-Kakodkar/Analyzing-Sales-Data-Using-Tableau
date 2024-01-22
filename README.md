@@ -22,12 +22,11 @@ The data consists of 286386 rows and  36 columns. The target variable is  "total
 ![Revenue per state](https://github.com/Sathyam-Kakodkar/Customer-Analysis/blob/main/images/Revenue%20per%20State.png)
 
 Here you can clearly see that Texas(TX) state generated highest revenue of around 15.5 million dollars
----
+***
 
 ![Revenue percentage per region](https://github.com/Sathyam-Kakodkar/Customer-Analysis/blob/main/images/Revenue%20percentage%20per%20Region.png)
 
 South region is highest revenue contributor with 38.37% whereas Northeast region was the lowest contributor with 17.10%
----
 
 ## Conclusion
 
