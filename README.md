@@ -1,5 +1,5 @@
 
-# Customer Analysis on Sales Data
+# Analyzing Sales Data Using Tableau
 
 
 ## Overview
